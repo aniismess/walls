@@ -1,0 +1,11 @@
+# Ignore common system files and temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Ignore package manager cache and any potential generated files if we add them later
+.cache/
+/previews/
