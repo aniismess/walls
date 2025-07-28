@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # My Wallpaper Collection
 
 Welcome to my curated collection of wallpapers! This repository is organized into various categories to make it easy to find the perfect background for your device.
