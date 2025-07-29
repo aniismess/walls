@@ -24,7 +24,6 @@ I've organized my wallpapers into these main sections. Just click on a category 
 
 ## Abstract
 
-This is where I keep wallpapers that focus on shapes, colors, and patterns rather than recognizable objects. They're great for a clean, modern look.
 
 ![Abstract Example 1](abstract/abstract.jpg)
 ![Abstract Example 2](abstract/colorful-planets.jpg)
@@ -34,17 +33,14 @@ This is where I keep wallpapers that focus on shapes, colors, and patterns rathe
 
 ## Anime
 
-My collection of wallpapers inspired by Japanese animation and manga. You'll find characters, landscapes, and scenes from various anime here.
 
 ![Anime Example 1](anime/Anime-Girl-Night-Sky.jpg)
 ![Anime Example 2](anime/Luffy_from_One_Piece_5160x2160.jpeg)
-![Anime Example 3](https://raw.githubusercontent.com/aniismess/walls/main/anime/zelda.png)
 
 ---
 
 ## Art & Photography
 
-This category is a mix of artistic creations and stunning photographs. It's where I put images that feel like they belong in a gallery.
 
 ![Art & Photography Example 1](art_photography/1.jpg)
 ![Art & Photography Example 2](art_photography/beautiful.jpg)
@@ -54,7 +50,6 @@ This category is a mix of artistic creations and stunning photographs. It's wher
 
 ## Cityscape
 
-For those who love the urban jungle, this section features city skylines, street scenes, and architectural marvels, often at night or during dramatic weather.
 
 ![Cityscape Example 1](cityscape/City-Night.png)
 ![Cityscape Example 2](cityscape/japan-street-Dark.png)
@@ -64,7 +59,6 @@ For those who love the urban jungle, this section features city skylines, street
 
 ## Food & Drink
 
-A small but delightful collection of wallpapers featuring delicious food and refreshing drinks. Perfect for when you need a little culinary inspiration on your desktop!
 
 ![Food & Drink Example 1](food_drink/coffee.jpg)
 ![Food & Drink Example 2](food_drink/sushi.jpg)
@@ -74,7 +68,6 @@ A small but delightful collection of wallpapers featuring delicious food and ref
 
 ## Gaming & Fantasy
 
-If you're into video games, mythical creatures, or fantastical worlds, this is the spot for you. I've got some cool art from games and imaginative scenes.
 
 ![Gaming & Fantasy Example 1](gaming_fantasy/Spider-man.jpg)
 ![Gaming & Fantasy Example 2](gaming_fantasy/Kratos-gow-red.jpg)
@@ -84,7 +77,6 @@ If you're into video games, mythical creatures, or fantastical worlds, this is t
 
 ## Nature
 
-My favorite category! Here you'll find breathtaking landscapes, serene forests, majestic mountains, and calming seascapes. It's like a mini-escape to the outdoors.
 
 ![Nature Example 1](nature/forest.jpg)
 ![Nature Example 2](nature/waterfall.jpg)
@@ -94,7 +86,6 @@ My favorite category! Here you'll find breathtaking landscapes, serene forests, 
 
 ## Tech
 
-For the tech enthusiasts! This section includes wallpapers with coding themes, circuit boards, futuristic concepts, and various operating system art.
 
 ![Tech Example 1](tech/coding.png)
 ![Tech Example 2](tech/keyboard.jpg)
@@ -104,7 +95,6 @@ For the tech enthusiasts! This section includes wallpapers with coding themes, c
 
 ## Vehicles
 
-From sleek cars to powerful aircraft and imaginative sci-fi transports, this category is for anyone who appreciates the beauty of motion and machinery.
 
 ![Vehicles Example 1](vehicles/bmw.jpg)
 ![Vehicles Example 2](vehicles/plane_sunset.png)
@@ -113,8 +103,6 @@ From sleek cars to powerful aircraft and imaginative sci-fi transports, this cat
 ---
 
 ## Miscellaneous
-
-This is my catch-all category for anything that doesn't quite fit neatly into the others. You'll find a fun and eclectic mix of wallpapers here!
 
 ![Miscellaneous Example 1](misc/astronaut.jpg)
 ![Miscellaneous Example 2](misc/cat.jpg)
